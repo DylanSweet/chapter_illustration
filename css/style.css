@@ -3,3 +3,12 @@ h1 {
 	font-size: 58px;
 	font-family: 'Bree Serif', serif;
 }
+img{width:100%;}
+
+
+header {
+background-image : url("../images/spindeck.jpeg");
+	width:100%;
+	height:600px;
+	background-position: center;
+}
